@@ -1,0 +1,6 @@
+{
+  "name": "Expertock",
+  "description": "Gujarat professional engineering social network and expert discovery platform connecting engineers and local business owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
